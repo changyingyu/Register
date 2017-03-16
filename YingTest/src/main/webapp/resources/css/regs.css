@@ -1,0 +1,117 @@
+body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-image: url("../img/background.jpg");
+}
+
+h1 {
+    font-family: 'Nunito', sans-serif;
+    color: #384047;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
+}
+
+h2 {
+
+    font-family: 'Nunito', sans-serif;
+    color: #384047;
+}
+h3 {
+    font-family: 'Nunito', sans-serif;
+    color: #384047;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 15.4px;
+}
+p {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+blockquote {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 21px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+pre {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 18.5714px;
+}
+
+
+input[type="text"],
+input[type="password"]
+ {
+    background: rgba(255,255,255,0.1);
+    border: none;
+    font-size: 16px;
+    height: auto;
+    margin: 0;
+    outline: 0;
+    padding: 15px;
+    width: 100%;
+    background-color: #e8eeef;
+    color: #8a97a0;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    margin-bottom: 30px;
+}
+.container{
+
+
+
+}
+
+form {
+    max-width: 300px;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background: #f4f7f8;
+    border-radius: 8px;
+}
+
+.has-error {
+    color: red;
+    font-size:10px;
+}
+
+.buttonSub {
+    background-color: #2c90c6;
+    border: 1px solid #2c90c6;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 240px;
+}
+
+.buttonSub:hover {
+    background-color: #2c70c6;
+    box-shadow: 2px 2px 20px  #2c90c6, #fff 0 -1px 2px;
+}
+
+.congr{
+
+    margin: auto;
+    text-align: center;
+}
